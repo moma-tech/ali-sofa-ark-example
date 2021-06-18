@@ -1,3 +1,3 @@
 # ali-sofa-ark-example
 ark -example
-test push
+test pus 2h
