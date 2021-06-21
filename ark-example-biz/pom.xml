@@ -5,7 +5,7 @@
     <parent>
         <groupId>com.alipay.sofa</groupId>
         <artifactId>sofaboot-dependencies</artifactId>
-        <version>3.2.2</version>
+        <version>3.7.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>top.moma</groupId>
@@ -25,6 +25,15 @@
             <groupId>com.alipay.sofa</groupId>
             <artifactId>sofa-ark-springboot-starter</artifactId>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <!--        <dependency>-->
+        <!--            <groupId>com.alipay.sofa</groupId>-->
+        <!--            <artifactId>runtime-sofa-boot-plugin</artifactId>-->
+        <!--        </dependency>-->
+
     </dependencies>
 
     <build>
